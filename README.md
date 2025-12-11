@@ -6,7 +6,7 @@ The dashboard provides interactive, visual insights into sales performance acros
 ## Project Overview
 
 <img width="1016" height="573" alt="image" src="https://github.com/user-attachments/assets/d2ca6fac-36d3-4426-b9f7-4b4d8733acc1" />
-This Excel dashboard helps analyze:
+**This Excel dashboard helps analyze:**
 
 Region-wise Sales
 
